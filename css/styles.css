@@ -52,7 +52,7 @@ img {
 }
 
 .section {
-  padding-top: 94px;
+  padding-top: 107px;
   padding-bottom: 94px;
 }
 /* Header */
@@ -224,6 +224,12 @@ img {
   letter-spacing: 0.03em;
 }
 
+.benefits-icons {
+  background-color: var(--secondary-bg-color);
+  padding: 25px 100px;
+  margin-bottom: 30px;
+  border-radius: 4px;
+}
 /* What do we do */
 
 /* .section {
