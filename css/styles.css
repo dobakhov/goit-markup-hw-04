@@ -372,6 +372,27 @@ img {
 .team-soc-icons {
   fill: currentColor;
 }
+
+.clients-logo {
+  margin: auto;
+  display: flex;
+}
+
+/* .container-clients {
+  width: 1170px;
+  height: 184px;
+  padding: 94px 215px;
+} */
+
+.clients-title {
+  color: var(--title-text-color);
+  margin-bottom: 50px;
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
 /* Footer */
 .footer-page {
   background: var(--footer-background);
